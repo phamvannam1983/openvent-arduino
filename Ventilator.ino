@@ -5,6 +5,8 @@
  *        GND           GND
  *        A4            SDA
  *        A5            SCL
+ 
+ 
  */
 #include <avr/interrupt.h>
 #include <Wire.h> 
